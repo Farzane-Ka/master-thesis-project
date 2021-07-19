@@ -1,7 +1,7 @@
 // ---------------------------------------------------------------------------
 // Controller.h
 //
-// Author: Florian Adamsky <florian.adamsky@iem.fh-friedberg.de>
+// Author: Florian Adamsky and Farzane Karami
 // ---------------------------------------------------------------------------
 #ifndef CONTROLLER_H
 #define CONTROLLER_H
