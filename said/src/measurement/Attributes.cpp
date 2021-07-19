@@ -2,7 +2,7 @@
 // Attributes.tcc
 // 
 //
-// Author: Florian Adamsky <florian.adamsky@iem.fh-friedberg.de>
+// Author: Florian Adamsky <florian.adamsky@iem.fh-friedberg.de> and Farzanr Karami
 // ---------------------------------------------------------------------------
 #include <iostream>
 
