@@ -2,7 +2,7 @@
 // DirectionBytesMeter.h
 // The header file from the attribute meter: direction bytes meter
 //
-// Author: Florian Adamsky <florian.adamsky@iem.fh-friedberg.de>
+// Author: Farzane Karami
 // ---------------------------------------------------------------------------
 #ifndef DIRECTIONBYTESMETER_H
 #define DIRECTIONBYTESMETER_H
