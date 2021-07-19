@@ -1,8 +1,8 @@
 // ---------------------------------------------------------------------------
 // DirectionBytesMeter.h
-// The header file from the attribute meter: direction bytes meter
+// The header file from the attribute meter: measuring the timing between the packets
 //
-// Author: Florian Adamsky <florian.adamsky@iem.fh-friedberg.de>
+// Author: Farzane Karami
 // ---------------------------------------------------------------------------
 #ifndef INTERARRIVAL_H
 #define INTERARRIVAL_H
