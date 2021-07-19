@@ -1,6 +1,6 @@
 // ---------------------------------------------------------------------------
 // 
-// The header file from the attribute meter: Measuring randomness of bytes in the payload by usionf the chi-square formula
+// The header file from the attribute meter: Measuring randomness of bytes in the payload by using the chi-square formula
 // 
 //
 // Author: Farzane Karami
