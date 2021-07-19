@@ -1,0 +1,5 @@
+#define X_FIELDS \
+X(float,chiSquare,24)\
+X(float,   directionBytesMeterCnt,         2) \
+X(float, interarrivalMeterCnt, 3)\
+X(float,payloadSizeMeterCnt,4)
