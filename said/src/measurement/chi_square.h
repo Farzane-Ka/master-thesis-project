@@ -1,9 +1,9 @@
 // ---------------------------------------------------------------------------
-// AllPacketsFirst8BytesEquality.h
-// The header file from the attribute meter: All packets first 8 bytes equality
-// meter
+// 
+// The header file from the attribute meter: Measuring randomness of bytes in the payload by usionf the chi-square formula
+// 
 //
-// Author: Florian Adamsky <florian.adamsky@iem.fh-friedberg.de>
+// Author: Farzane Karami
 // ---------------------------------------------------------------------------
 #ifndef CHI_SQUARE
 #define CHI_SQUARE
