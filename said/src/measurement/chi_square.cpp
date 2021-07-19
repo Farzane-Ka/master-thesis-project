@@ -1,3 +1,4 @@
+//author : Farzane Karami
 #include "chi_square.h"
 
 //float*
